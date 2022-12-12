@@ -1,13 +1,7 @@
-# This is your readme
-You are required to fill it in with documentation similar to that found in the Sequelize example for the course as part of your final project.
 
-### How to use Markdown
-Markdown is a text notation system used in Discord, Whatsapp and similar to structure pages without writing HTML at all. You'll be using it for your documentation.
-* [Markdown guide](https://www.markdownguide.org/cheat-sheet/)
-
-# README
+# Pair Project
 - [Link to the Github Pages site:]https://iakaiang.github.io/Group8-Final-Project-Farm_Market/client/
-- Project title: Find your Farmers Market 
+- Project title: Farmers Markets in Prince George's County 
 - Target browers: chrome, ios 16, Android 13
 
 # Project Description
